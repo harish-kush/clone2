@@ -1,3 +1,4 @@
+// animations
 function locoscroll(){
   gsap.registerPlugin(ScrollTrigger);
 
